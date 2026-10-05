@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kleopatra.webart.work/sitemap.xml
+Sitemap: https://kleopatra.hotelup.work/sitemap.xml
